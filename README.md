@@ -23,8 +23,8 @@ The optimized Birch model configuration we used was: Birch(branching_factor=100,
 # Result
 Our team Data Miners secured 3rd place in the competition with the following results,
 
-Birch Accuracy Result: % 0.9063226800966667
-Birch Silhouette Score: 0.121
+* Birch Accuracy Result: % 0.9063226800966667
+* Birch Silhouette Score: 0.121
 
 # Conclusion
 In our project, we explored various preprocessing combinations and employed different clustering techniques such as K-means, Agglomerative, and Birch. The preprocessing techniques included dimensionality reduction and minmax scaling. We utilized the silhouette score as our internal evaluation metric to assess the quality of clustering. After experimenting with different combinations, we achieved an impressive score of 90.6322%, resulting in a significant rise in our leaderboard position and securing the third rank.
