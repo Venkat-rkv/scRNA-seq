@@ -30,9 +30,9 @@ Birch Silhouette Score: 0.121
 In our project, we explored various preprocessing combinations and employed different clustering techniques such as K-means, Agglomerative, and Birch. The preprocessing techniques included dimensionality reduction and minmax scaling. We utilized the silhouette score as our internal evaluation metric to assess the quality of clustering. After experimenting with different combinations, we achieved an impressive score of 90.6322%, resulting in a significant rise in our leaderboard position and securing the third rank.
 
 # References
- Documentations from Scikit-Learn - https://scikit-learn.org/stable/index.html
- Patel, Dhara & Modi, Ruchi & Sarvakar, Ketan. (2014). A Comparative Study of Clustering Data Mining: Techniques and Research Challenges. iii. 67-70.
- Oyelade J, Isewon I, Oladipupo F, et al. Clustering Algorithms: Their Application to Gene Expression Data. Bioinform Biol Insights. 2016;10:237-253. Published 2016 Nov 30. doi:10.4137/BBI.S38316.
+1) Documentations from Scikit-Learn - https://scikit-learn.org/stable/index.html
+2) Patel, Dhara & Modi, Ruchi & Sarvakar, Ketan. (2014). A Comparative Study of Clustering Data Mining: Techniques and Research Challenges. iii. 67-70.
+3) Oyelade J, Isewon I, Oladipupo F, et al. Clustering Algorithms: Their Application to Gene Expression Data. Bioinform Biol Insights. 2016;10:237-253. Published 2016 Nov 30. doi:10.4137/BBI.S38316.
 
 
 
